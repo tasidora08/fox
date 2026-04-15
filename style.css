@@ -1,0 +1,25 @@
+.info {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+}
+
+.fox {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.fox-img {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.jc {
+    font-size: 1.3em;
+}
+
+.ai {
+    font-size: 1.3em;
+}
